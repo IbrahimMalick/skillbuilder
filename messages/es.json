@@ -4,19 +4,134 @@
     "tagline": "Una escuela editorial para emprendedores.",
     "signIn": "Iniciar sesión",
     "signUp": "Empezar",
+    "logIn": "Entrar",
+    "logOut": "Salir",
     "dashboard": "Panel",
     "pricing": "Precios",
-    "tracks": "Programas"
+    "tracks": "Programas",
+    "about": "Sobre",
+    "back": "Atrás",
+    "loading": "Cargando…",
+    "continue": "Continuar"
   },
   "landing": {
     "heroEyebrow": "§01 — Cohorte fundadora",
     "heroTitle": "Construye el negocio que te permite conservar tu vida.",
-    "heroBody": "IDesire Academy es un programa tranquilo y deliberado para emprendedores inmigrantes, side hustlers, corporativos en transición y operadores B2B. Cinco programas, una fundadora, sin relleno.",
+    "heroBody": "IDesire Academy es un programa pausado y deliberado para emprendedores inmigrantes, side hustlers, corporativos en transición y operadores B2B. Cinco programas. Una fundadora. Sin relleno.",
     "heroCta": "Reclama tu plaza fundadora",
-    "seatsRemaining": "Quedan {count} de 50 plazas fundadoras"
+    "heroSecondary": "Ver los programas",
+    "seatsRemaining": "Quedan {count} de 50 plazas fundadoras",
+    "seatsSoldOut": "Cohorte fundadora cerrada",
+
+    "whatYouGetEyebrow": "§02 — Qué obtienes",
+    "whatYouGetTitle": "Menos contenido. Más consecuencia.",
+    "whatYouGetBody": "La mayoría de los cursos te venden horas de video. Nosotros te vendemos menos horas y más rendición de cuentas. Cada semana tiene un entregable y una fecha límite. Cada programa termina con algo que puedes poner frente a un cliente que paga.",
+    "perks": [
+      "Cinco programas, construidos a mano por Eman",
+      "Los miembros fundadores reciben cada cohorte futura, gratis, de por vida",
+      "Sesiones en vivo en EN, ES y UR; grabaciones en 24h",
+      "Acceso directo a Eman en una comunidad pequeña"
+    ],
+
+    "tracksEyebrow": "§03 — Los cinco programas",
+    "tracksTitle": "Elige dónde estás. Te encontramos ahí.",
+
+    "founderEyebrow": "§04 — La fundadora",
+    "founderName": "Eman Desire",
+    "founderQuote": "Construí la escuela que deseé tener cuando llegué con dos maletas y sin plan. Pausada, lenta, embarazosamente específica.",
+    "founderBio": "Eman es emprendedora inmigrante de segunda generación. Ha fundado tres empresas, vendido una, y pasó la última década enseñando en silencio a otros inmigrantes a hacer lo mismo. Vive entre Lisboa y Toronto.",
+
+    "pricingTeaserEyebrow": "§05 — Precios",
+    "pricingTeaserTitle": "Las plazas fundadoras cuestan $97 al mes, para siempre.",
+    "pricingTeaserBody": "Hay 50, y cuando se acaben se acabaron. Premium abre después, a un precio más alto.",
+    "pricingTeaserCta": "Ver detalles de precios",
+
+    "faqEyebrow": "§06 — Preguntas comunes",
+    "faqTitle": "Lo que se preguntan antes de decir que sí."
+  },
+  "faqs": {
+    "q1": { "q": "¿Para quién es esto?", "a": "Operadores que prefieren construir un negocio pequeño y rentable antes que perseguir escala de capital de riesgo. Nuestros cuatro perfiles centrales son inmigrantes, side hustlers, corporativos en transición y consultores B2B." },
+    "q2": { "q": "¿Tengo que asistir en vivo?", "a": "No. Las sesiones se graban y se publican en 24 horas, con transcripciones en EN/ES/UR. La comunidad funciona de forma asíncrona por defecto." },
+    "q3": { "q": "¿Qué significa realmente «fundador»?", "a": "$97/mes bloqueado para siempre, incluso si subimos precios. Acceso de por vida a cada cohorte y cada programa nuevo. Canal privado con Eman. Y el derecho a llamarte miembro fundador #1 al #50." },
+    "q4": { "q": "¿Puedo cancelar?", "a": "Sí, en cualquier momento. Mantienes el acceso hasta el final del período facturado. No jugamos juegos de retención." },
+    "q5": { "q": "¿Reembolsos?", "a": "Reembolso completo en los primeros 14 días, sin preguntas, sin formularios. Después de eso, creemos en el trabajo y tú también deberías." }
   },
   "footer": {
     "rights": "© {year} IDesire Academy. Todos los derechos reservados.",
-    "language": "Idioma"
+    "language": "Idioma",
+    "product": "Producto",
+    "company": "Empresa",
+    "legal": "Legal",
+    "terms": "Términos",
+    "privacy": "Privacidad",
+    "contact": "Contacto"
+  },
+  "auth": {
+    "signupTitle": "Construye algo específico.",
+    "signupBody": "Crea una cuenta para reclamar una plaza fundadora o explorar el currículum.",
+    "loginTitle": "Bienvenido de vuelta.",
+    "loginBody": "Inicia sesión para seguir donde lo dejaste.",
+    "resetTitle": "Restablece tu contraseña.",
+    "resetBody": "Te enviaremos un enlace por correo.",
+    "email": "Correo",
+    "password": "Contraseña",
+    "fullName": "Nombre completo",
+    "createAccount": "Crear cuenta",
+    "magicLink": "Enviarme un enlace en su lugar",
+    "magicLinkSent": "Revisa tu bandeja de entrada.",
+    "haveAccount": "¿Ya tienes una cuenta?",
+    "noAccount": "¿Aún no tienes cuenta?",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "sendResetLink": "Enviar enlace",
+    "resetSent": "Si ese correo existe, te enviamos un enlace.",
+    "errorGeneric": "Algo salió mal. Intenta de nuevo.",
+    "errorInvalidCredentials": "Correo o contraseña incorrectos.",
+    "checkEmail": "Revisa tu correo para confirmar tu cuenta."
+  },
+  "tracks": {
+    "lockedNotice": "Suscríbete para desbloquear el curso completo.",
+    "freePreviewBadge": "Vista previa",
+    "lessonsCount": "{count} lecciones",
+    "comingSoon": "Próximamente"
+  },
+  "pricing": {
+    "eyebrow": "§01 — Cohorte fundadora",
+    "title": "Dos formas de unirse. Una sola puerta.",
+    "subtitle": "Las plazas fundadoras se limitan a 50 y desaparecen cuando se agotan. Premium abre después.",
+    "monthly": "Mensual",
+    "annual": "Anual",
+    "annualSavings": "Ahorra dos meses",
+    "founding": {
+      "name": "Fundador",
+      "priceMonthly": "$97",
+      "priceAnnual": "$970",
+      "per": "/ mes",
+      "perAnnual": "/ año",
+      "tag": "{count} de 50 disponibles",
+      "tagSoldOut": "Cerrado",
+      "cta": "Reclamar plaza fundadora",
+      "items": [
+        "Bloqueado en $97/mes para siempre",
+        "Acceso vitalicio a todos los programas, actuales y futuros",
+        "Canal privado directo con Eman",
+        "Primero en sesiones y avances",
+        "Insignia de fundador en la plataforma"
+      ]
+    },
+    "premium": {
+      "name": "Premium",
+      "priceMonthly": "$197",
+      "priceAnnual": "$1,970",
+      "per": "/ mes",
+      "perAnnual": "/ año",
+      "cta": "Unirse a Premium",
+      "items": [
+        "Acceso completo a los cinco programas",
+        "Sesiones en vivo cada semana",
+        "Comunidad en EN, ES, UR",
+        "Cancela cuando quieras",
+        "Reembolso de 14 días, sin preguntas"
+      ]
+    }
   }
 }
