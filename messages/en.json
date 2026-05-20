@@ -1,0 +1,22 @@
+{
+  "common": {
+    "appName": "IDesire Academy",
+    "tagline": "An editorial school for entrepreneurs.",
+    "signIn": "Sign in",
+    "signUp": "Get started",
+    "dashboard": "Dashboard",
+    "pricing": "Pricing",
+    "tracks": "Tracks"
+  },
+  "landing": {
+    "heroEyebrow": "§01 — Founding cohort",
+    "heroTitle": "Build the business that lets you keep your life.",
+    "heroBody": "IDesire Academy is a quiet, deliberate program for immigrant entrepreneurs, side hustlers, corporate escapees, and B2B operators. Five tracks, one founder, no fluff.",
+    "heroCta": "Claim your founding seat",
+    "seatsRemaining": "{count} of 50 founding seats remain"
+  },
+  "footer": {
+    "rights": "© {year} IDesire Academy. All rights reserved.",
+    "language": "Language"
+  }
+}

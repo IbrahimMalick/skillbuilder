@@ -1,0 +1,22 @@
+{
+  "common": {
+    "appName": "IDesire Academy",
+    "tagline": "Una escuela editorial para emprendedores.",
+    "signIn": "Iniciar sesión",
+    "signUp": "Empezar",
+    "dashboard": "Panel",
+    "pricing": "Precios",
+    "tracks": "Programas"
+  },
+  "landing": {
+    "heroEyebrow": "§01 — Cohorte fundadora",
+    "heroTitle": "Construye el negocio que te permite conservar tu vida.",
+    "heroBody": "IDesire Academy es un programa tranquilo y deliberado para emprendedores inmigrantes, side hustlers, corporativos en transición y operadores B2B. Cinco programas, una fundadora, sin relleno.",
+    "heroCta": "Reclama tu plaza fundadora",
+    "seatsRemaining": "Quedan {count} de 50 plazas fundadoras"
+  },
+  "footer": {
+    "rights": "© {year} IDesire Academy. Todos los derechos reservados.",
+    "language": "Idioma"
+  }
+}
